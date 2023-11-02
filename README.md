@@ -1,1 +1,1 @@
-# mobileDevProject
+# Android/java projects
